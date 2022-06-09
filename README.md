@@ -1,3 +1,5 @@
+The purpose of this commit is to ensure that the purpose of this project is discernable. The focus of this project is to reduce the carbon footprint of humanity
+
 # Inventory
 
 [![Travis CI](https://img.shields.io/travis/stevebauman/inventory/v1.7.5.svg?style=flat-square)](https://travis-ci.org/stevebauman/inventory)
